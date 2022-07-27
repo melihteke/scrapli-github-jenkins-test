@@ -15,9 +15,6 @@ chardet==4.0.0
 charset-normalizer==2.0.12
 cisco-gnmi==1.0.15
 cryptography==36.0.2
-dataclasses==0.8
-dill==0.3.4
-distro==1.7.0
 dnacentersdk==2.5.0
 fastjsonschema==2.15.3
 frozenlist==1.2.0

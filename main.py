@@ -1,7 +1,7 @@
 from scrapli.driver.core import IOSXEDriver
 
 my_device = {
-    "host": "172.18.0.11",
+    "host": "192.168.178.1",
     "auth_username": "jenkins",
     "auth_password": "jenkins",
 	"auth_secondary":"!mlh1985",

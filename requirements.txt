@@ -8,7 +8,6 @@ botocore==1.20.112
 cffi==1.12.3
 chardet==2.2.1
 click==7.1.2
-cloud-init==19.4
 colorama==0.4.3
 configobj==4.7.2
 contextlib2==0.6.0.post1
@@ -109,7 +108,4 @@ virtualenv==15.1.0
 WALinuxAgent==2.2.46
 Werkzeug==1.0.1
 xlrd==1.2.0
-xmltodict==0.12.0
-yum-langpacks==0.4.2
-yum-metadata-parser==1.1.4
-zipp==1.2.0
+

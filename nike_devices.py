@@ -49,6 +49,7 @@ class NikeCiscoDevice(NikeDevice):
             "auth_username": self.username,
             "auth_password": self.password,
             "auth_secondary": self.password,
+            "transport": "paramiko",
             "auth_strict_key": False,
         }
     
